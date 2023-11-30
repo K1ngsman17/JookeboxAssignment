@@ -1,0 +1,47 @@
+.heading{
+    color: #5CDB95;
+    vertical-align: top;
+    margin: 0;
+    padding-top: 20px;
+}
+.login,.register{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #05386B;
+    margin: 0;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+html{
+    background-color:  #379683;
+}
+.input-elements{
+    display: block;
+    border: none;
+    margin-bottom: 15px;
+    padding: 8px 65px;
+    border-radius: 16px;
+}
+.text-action{
+    color: #EDF5E1;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.button-action{
+    background-color: #3FEEE6;
+    border: none;
+    padding: 8px 20px;
+    display: block;
+    cursor: pointer;
+}
+.redirect{
+    color:#5CDB95;
+    padding: 8px 20px;
+    margin-top: 30px;
+    display: block;
+}
